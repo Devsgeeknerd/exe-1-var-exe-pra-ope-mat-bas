@@ -1,6 +1,6 @@
 <!-- TITLE -->
 
-# FLUTTER
+# CURSO DE FLUTTER
 
 <!-- TABLE OF CONTENTS -->
 
@@ -50,4 +50,16 @@
 
 ## INFORMAÇÕES
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devgeeknerd.flutter-full-stack "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fflutter-full-stack&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+&nbsp;
+![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+&nbsp;
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/flutter-full-stack?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+&nbsp;
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/flutter-full-stack?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+&nbsp;
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+&nbsp;
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/flutter-full-stack?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+&nbsp;
+![license](https://img.shields.io/github/license/Devsgeeknerd/flutter-full-stack?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
