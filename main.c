@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// "void" quando a aplicação não retorna nada.
+// Usa-se "void" quando a aplicação não retorna nada.
 void main()
 {
     int a = 10;
